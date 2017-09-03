@@ -12,6 +12,7 @@ public class CommonTest {
 			System.out.println("============>"+str);
 		} else {
 			System.out.println("============>"+null);
+			System.out.println("============>2");
 		}
 	}
 }
